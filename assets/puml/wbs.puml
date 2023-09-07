@@ -1,0 +1,13 @@
+@startwbs
+* Business Process Modelling WBS
+** Launch the project\ndeadline: 2023-09-08\naccountable: Person 1\nresponsible: Person 1, Person 2
+*** Complete Stakeholder Research
+*** Initial Implementation Plan
+** Design phase
+*** Model of AsIs Processes Completed
+**** Model of AsIs Processes Completed1
+**** Model of AsIs Processes Completed2
+*** Measure AsIs performance metrics
+*** Identify Quick Wins
+** Complete innovate phase
+@endwbs
