@@ -1,6 +1,6 @@
 @startwbs
 * Business Process Modelling WBS
-** Launch the project\ndeadline: 2023-09-08\naccountable: Person 1\nresponsible: Person 1, Person 2
+** Launch the project\n deadline: 2023-09-08\n accountable: Person 1\n responsible: Person 1, Person 2
 *** Complete Stakeholder Research
 *** Initial Implementation Plan
 ** Design phase
